@@ -76,7 +76,7 @@ nav li:hover{
 /* ------------------------------------------homeContent---------------------------- */
 #homeContent{
     height:90vh;
-    background-image: url(img/solar-panels-meadow\ 1.png);
+    background-image: url(../img/solar-panels-meadow\ 1.png);
     background-size: 100% 100%;
     background-position: center center;
     background-repeat: no-repeat;
@@ -215,7 +215,7 @@ line-height: 62px;
  .power{
      height: max-content;
      padding: 10%;
-     background-image: url(img/8116\ 1.png);
+     background-image: url(../img/8116\ 1.png);
      background-position: center center;
      background-size: 100% 100%;
      background-repeat: no-repeat;
@@ -302,7 +302,7 @@ line-height: 62px;
  }
  /* -----------------------repairs-------------- */
  .repairs {
-     background-image: url(img/8116\ 1\ \(1\).png);
+     background-image: url(../img/8116\ 1\ \(1\).png);
      background-position: center center;
      background-size: 100% 100%;
      background-repeat: no-repeat;
